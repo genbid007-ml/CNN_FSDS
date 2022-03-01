@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.2
+Summary: CNN with MLOPS with templating from Sunny
+Home-page: https://github.com/genbid007-ml/CNN_FSDS
+Author: genbid007
+Author-email: genbid007.ml@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+This is a CNN project intend to implement MLFLOW
+
+
